@@ -2,7 +2,7 @@
   "session_id": "12345",
   "history": [
     {
-      "user_prompt": "demo response",
+      "user_prompt": "Non sono ancora stato addestrato per darti assistenza",
       "user_prompt_ts": "1736612661004",
       "system_response": {
         "message": "the response message",
@@ -16,7 +16,7 @@
       "system_response_ts": "1736612661004"
     },
     {
-      "user_prompt": "demo response",
+      "user_prompt": "Non sono ancora stato addestrato per darti assistenza",
       "user_prompt_ts": "1736612661004",
       "system_response": {
         "message": "the response message",
@@ -35,10 +35,10 @@
       "system_response_ts": "1736612661004"
     },
     {
-      "user_prompt": "demo response",
+      "user_prompt": "Non sono ancora stato addestrato per darti assistenza",
       "user_prompt_ts": "1736612661004",
       "system_response": {
-        "message": "the response message",
+        "message": "Non sono ancora stato addestrato per darti assistenza",
         "meta_data": {
           "document_name": "the document name",
           "start_page": "12",

@@ -1,7 +1,7 @@
 {
-  "user_prompt": "demo response",
+  "user_prompt": "Non sono ancora stato addestrato per darti assistenza",
   "system_response": {
-    "message": "the response message",
+    "message": "Non sono ancora stato addestrato per darti assistenza",
     "meta_data": {
       "document_name": "the document name",
       "start_page": "12",
