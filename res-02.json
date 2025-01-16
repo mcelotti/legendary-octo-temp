@@ -1,0 +1,17 @@
+{
+  "user_prompt": "demo response",
+  "system_response": {
+    "message": "the response message",
+    "meta_data": {
+      "document_name": "the document name",
+      "start_page": "12",
+      "end_page": "15",
+      "image_references": [
+        {
+          "image_name": "my image name",
+          "url": "https://www.smau.it/_default_upload_bucket/image-thumb__36161__partner-show-image/Italgas_ML_colore.jpeg"
+        }
+      ]
+    }
+  }
+}

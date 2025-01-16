@@ -1,0 +1,61 @@
+{
+  "session_id": "12345",
+  "history": [
+    {
+      "user_prompt": "demo response",
+      "user_prompt_ts": "1736612661004",
+      "system_response": {
+        "message": "the response message",
+        "meta_data": {
+          "document_name": "the document name",
+          "start_page": "12",
+          "end_page": "15",
+          "image_references": []
+        }
+      },
+      "system_response_ts": "1736612661004"
+    },
+    {
+      "user_prompt": "demo response",
+      "user_prompt_ts": "1736612661004",
+      "system_response": {
+        "message": "the response message",
+        "meta_data": {
+          "document_name": "the document name",
+          "start_page": "12",
+          "end_page": "15",
+          "image_references": [
+            {
+              "image_name": "my image name",
+              "url": "https://www.smau.it/_default_upload_bucket/image-thumb__36161__partner-show-image/Italgas_ML_colore.jpeg"
+            }
+          ]
+        }
+      },
+      "system_response_ts": "1736612661004"
+    },
+    {
+      "user_prompt": "demo response",
+      "user_prompt_ts": "1736612661004",
+      "system_response": {
+        "message": "the response message",
+        "meta_data": {
+          "document_name": "the document name",
+          "start_page": "12",
+          "end_page": "15",
+          "image_references": [
+            {
+              "image_name": "my image name",
+              "url": "https://www.smau.it/_default_upload_bucket/image-thumb__36161__partner-show-image/Italgas_ML_colore.jpeg"
+            },
+            {
+              "image_name": "my image name",
+              "url": "https://www.smau.it/_default_upload_bucket/image-thumb__36161__partner-show-image/Italgas_ML_colore.jpeg"
+            }
+          ]
+        }
+      },
+      "system_response_ts": "1736612661004"
+    }
+  ]
+}
